@@ -22,8 +22,8 @@
 }
 
 .diagnol-box {
-    background: rgb(238,255,255);
-    background: linear-gradient(90deg, rgba(238,255,255,1) 0%, rgba(246,244,220,1) 50%, rgba(199,228,231,1) 100%);
+    background: rgb(182,67,67);
+    background: linear-gradient(90deg, rgba(182,67,67,1) 0%, rgba(200,86,86,1) 50%, rgba(157,73,73,1) 100%);
     transform: skewY(-5deg);
     padding: 5%;
 }

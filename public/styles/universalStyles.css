@@ -1,18 +1,22 @@
 body {
-    background-color: #1D2D44 !important;
-    color: white !important;
+    background-color: #b23a48 !important;
+    color: gold !important;
 }
 
 a:hover {
-    color: #748CAB !important;
+    color: #ffe169 !important;
 }
 
-.background-navy {
-    background-color: #748CAB !important;
+.background-green {
+    background-color: #5e6472 !important;
 }
 
 .font-white {
     color: white !important;
+}
+
+.font-gold {
+    color: gold !important;
 }
 
 .font-black {
